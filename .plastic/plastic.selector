@@ -1,0 +1,4 @@
+repository "TankGame@wiqge@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
